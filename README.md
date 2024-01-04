@@ -27,7 +27,7 @@
 | 1/1  |         |                |
 | 1/2  |    <a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a>     | :heavy_check_mark: |
 | 1/3  |    <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a>    | :heavy_check_mark: |
-| 1/4  |         |                |
+| 1/4  |     <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a>   | :heavy_check_mark: |
 | 1/5  |         |                |
 | 1/6  |         |                |
 | 1/7  |         |                |

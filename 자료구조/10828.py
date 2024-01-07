@@ -9,7 +9,7 @@ def input():
 
 N = int(input())
 
-stack = [] 
+stack = []
 
 for i in range(N):
     cmd = input().split()
@@ -18,7 +18,7 @@ for i in range(N):
         X = cmd[1]
     cmd = cmd[0]
 
-    if cmd == "push":
+    if cmd == "push": 
         stack.append(X)
     elif cmd == "pop":
         if len(stack) == 0:

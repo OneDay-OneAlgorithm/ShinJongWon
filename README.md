@@ -27,11 +27,11 @@
 | 1/1  |         |                |
 | 1/2  |    <a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a>     | :heavy_check_mark: |
 | 1/3  |    <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a>    | :heavy_check_mark: |
-| 1/4  |     <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a>   | :heavy_check_mark: |
+| 1/4  |    <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a>   | :heavy_check_mark: |
 | 1/5  |    <a href="https://www.acmicpc.net/problem/1158" target="_blank">1158</a>    |  :heavy_check_mark: |
-| 1/6  |       <a href="https://www.acmicpc.net/problem/10866" target="_blank">18660</a> | :heavy_check_mark: |
-| 1/7  |         |                |
-| 1/8  |         |                |
+| 1/6  |    <a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a> | :heavy_check_mark: |
+| 1/7  |    <a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a> | :heavy_check_mark: |
+| 1/8  |    <a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a>  | :heavy_check_mark: |
 | 1/9  |         |                |
 | 1/10 |         |                |
 | 1/11 |         |                |

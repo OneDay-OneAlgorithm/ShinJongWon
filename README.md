@@ -33,8 +33,8 @@
 | 1/7  |    <a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a> | :heavy_check_mark: |
 | 1/8  |    <a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a>  | :heavy_check_mark: | 
 | 1/9  |    <a href="https://www.acmicpc.net/problem/1966" target="_blank">1966</a>  | :heavy_check_mark: | 
-| 1/10 |         |                |
-| 1/11 |         |                |
+| 1/10 |    <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a>  | :heavy_check_mark: | 
+| 1/11 |    <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a>  | :heavy_check_mark: | 
 | 1/12 |         |                |
 | 1/13 |         |                |
 | 1/14 |         |                |

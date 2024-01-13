@@ -35,19 +35,19 @@
 | 1/9  |    <a href="https://www.acmicpc.net/problem/1966" target="_blank">1966</a>  | :heavy_check_mark: | 
 | 1/10 |    <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a>  | :heavy_check_mark: | 
 | 1/11 |    <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a>  | :heavy_check_mark: | 
-| 1/12 |         |                |
-| 1/13 |         |                |
+| 1/12 |         |        X        |
+| 1/13 |    <a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>  | :heavy_check_mark: |
 | 1/14 |         |                |
 | 1/15 |         |                |
-| 1/16 |         |                |
-| 1/17 |         |                |
-| 1/18 |         |                |
-| 1/19 |         |                |
-| 1/20 |         |                |
-| 1/21 |         |                |
-| 1/22 |         |                |
-| 1/23 |         |                |
-| 1/24 |         |                |
+| 1/16 |         |        ✈️       |
+| 1/17 |         |        ✈️       |
+| 1/18 |         |        ✈️       |
+| 1/19 |         |        ✈️       |
+| 1/20 |         |        ✈️       |
+| 1/21 |         |        ✈️       |
+| 1/22 |         |        ✈️       |
+| 1/23 |         |        ✈️       |
+| 1/24 |         |        ✈️       |
 | 1/25 |         |                |
 | 1/26 |         |                |
 | 1/27 |         |                |

@@ -37,7 +37,7 @@
 | 1/11 |    <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a>  | :heavy_check_mark: | 
 | 1/12 |         |        X        |
 | 1/13 |    <a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>  | :heavy_check_mark: |
-| 1/14 |         |                |
+| 1/14 |    <a href="https://www.acmicpc.net/problem/10779" target="_blank">10779</a>  | :heavy_check_mark: |
 | 1/15 |         |                |
 | 1/16 |         |        ✈️       |
 | 1/17 |         |        ✈️       |

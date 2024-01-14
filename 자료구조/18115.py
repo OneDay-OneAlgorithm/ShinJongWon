@@ -19,7 +19,7 @@ for i in range(N):
     if li[i] == 1:
         dq.appendleft(i + 1)
     elif li[i] == 2:
-        dq.insert(1, i + 1)
+        dq.insert(1, i + 1) 
     elif li[i] == 3:
         dq.append(i + 1)
 

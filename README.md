@@ -48,11 +48,11 @@
 | 1/22 |         |        ✈️       |
 | 1/23 |         |        ✈️       |
 | 1/24 |         |        ✈️       |
-| 1/25 |         |                |
+| 1/25 |         |        ✈️       |
 | 1/26 |         |                |
 | 1/27 |         |                |
-| 1/28 |         |                |
-| 1/29 |         |                |
+| 1/28 |     <a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>  | :heavy_check_mark: |
+| 1/29 |     <a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>  | :heavy_check_mark: |
 | 1/30 |         |                |
 | 1/31 |         |                |
 

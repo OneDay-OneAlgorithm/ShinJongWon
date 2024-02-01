@@ -60,7 +60,7 @@
 
 | 날짜 | 푼 문제 | 문제 풀이 여부 |
 | ---- | ------- | -------------- |
-| 2/1  |         |                |
+| 2/1  |     <a href="https://www.acmicpc.net/problem/11279" target="_blank">11279</a>  | :heavy_check_mark: |
 | 2/2  |         |                |
 | 2/3  |         |                |
 | 2/4  |         |                |

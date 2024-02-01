@@ -15,4 +15,3 @@ for _ in range(n):
                 heapq.heappop(heap)
                 heapq.heappush(heap, number)
 print(heap[0])
-출처: https://kjhoon0330.tistory.com/entry/BOJ-2075-N번째-큰-수-Python [Jahni's Blog:티스토리]

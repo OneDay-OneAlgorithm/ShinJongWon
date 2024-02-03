@@ -62,7 +62,7 @@
 | ---- | ------- | -------------- |
 | 2/1  |     <a href="https://www.acmicpc.net/problem/11279" target="_blank">11279</a>  | :heavy_check_mark: |
 | 2/2  |     <a href="https://www.acmicpc.net/problem/2075" target="_blank">2075</a>  | :heavy_check_mark: |
-| 2/3  |         |                |
+| 2/3  |     <a href="https://www.acmicpc.net/problem/5347" target="_blank">5347</a>  | :heavy_check_mark: |
 | 2/4  |         |                |
 | 2/5  |         |                |
 | 2/6  |         |                |

@@ -24,7 +24,7 @@
 
 | 날짜 | 푼 문제 | 문제 풀이 여부 |
 | ---- | ------- | -------------- |
-| 1/1  |         |                |
+| 1/1  |         |        X       |
 | 1/2  |    <a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a>     | :heavy_check_mark: |
 | 1/3  |    <a href="https://www.acmicpc.net/problem/9012" target="_blank">9012</a>    | :heavy_check_mark: |
 | 1/4  |    <a href="https://www.acmicpc.net/problem/18258" target="_blank">18258</a>   | :heavy_check_mark: |
@@ -35,7 +35,7 @@
 | 1/9  |    <a href="https://www.acmicpc.net/problem/1966" target="_blank">1966</a>  | :heavy_check_mark: | 
 | 1/10 |    <a href="https://www.acmicpc.net/problem/2346" target="_blank">2346</a>  | :heavy_check_mark: | 
 | 1/11 |    <a href="https://www.acmicpc.net/problem/1874" target="_blank">1874</a>  | :heavy_check_mark: | 
-| 1/12 |         |        X        |
+| 1/12 |         |        X       |
 | 1/13 |    <a href="https://www.acmicpc.net/problem/18115" target="_blank">18115</a>  | :heavy_check_mark: |
 | 1/14 |    <a href="https://www.acmicpc.net/problem/10779" target="_blank">10779</a>  | :heavy_check_mark: |
 | 1/15 |         |        ✈️       |
@@ -64,8 +64,8 @@
 | 2/2  |     <a href="https://www.acmicpc.net/problem/2075" target="_blank">2075</a>  | :heavy_check_mark: |
 | 2/3  |     <a href="https://www.acmicpc.net/problem/5347" target="_blank">5347</a>  | :heavy_check_mark: |
 | 2/4  |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">14916</a>  | :heavy_check_mark: |
-| 2/5  |         |                |
-| 2/6  |         |                |
+| 2/5  |         |       X        |
+| 2/6  |     <a href="https://www.acmicpc.net/problem/1343" target="_blank">1343</a>  | :heavy_check_mark: |
 | 2/7  |         |                |
 | 2/8  |         |                |
 | 2/9  |         |                |

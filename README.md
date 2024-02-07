@@ -66,7 +66,7 @@
 | 2/4  |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">14916</a>  | :heavy_check_mark: |
 | 2/5  |         |       X        |
 | 2/6  |     <a href="https://www.acmicpc.net/problem/1343" target="_blank">1343</a>  | :heavy_check_mark: |
-| 2/7  |         |                |
+| 2/7  |     <a href="https://www.acmicpc.net/problem/10870" target="_blank">10870</a>  | :heavy_check_mark: |
 | 2/8  |         |                |
 | 2/9  |         |                |
 | 2/10 |         |                |

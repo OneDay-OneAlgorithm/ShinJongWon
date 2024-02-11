@@ -69,8 +69,8 @@
 | 2/7  |     <a href="https://www.acmicpc.net/problem/10870" target="_blank">10870</a>  | :heavy_check_mark: |
 | 2/8  |     <a href="https://www.acmicpc.net/problem/1789" target="_blank">1789</a>  | :heavy_check_mark: |
 | 2/9  |     <a href="https://www.acmicpc.net/problem/1978" target="_blank">1978</a>  | :heavy_check_mark: |
-| 2/10 |         |                |
-| 2/11 |         |                |
+| 2/10 |         |       X        |
+| 2/11 |     <a href="https://www.acmicpc.net/problem/2417" target="_blank">2417</a>  | :heavy_check_mark: |
 | 2/12 |    ✈️    |                |
 | 2/13 |    ✈️    |                |
 | 2/14 |    ✈️    |                |
